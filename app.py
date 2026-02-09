@@ -12,7 +12,7 @@ MODEL_NAME = "gpt-4o-mini"
 
 # --- HARDCODED API KEY (User Request) ---
 # IMPORTANT: This key was provided by the user.
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "Sk-proj-5TJdxVr8UmXo_u_JpkocJAzAtsoFlHBKj9KOlbLyS8yl7lxrl4EgGeWxfzYAW0VdLyafiRf4AQT3BlbkFJtkLlV1dteo1DFanY1WVh0SO6kxIIzhEjbq-axAjiQDsPcOxYtCIRbbAAHEmkzIRhgthaZagbwA"
 
 st.set_page_config(page_title="PDF Data Extractor", layout="centered")
 
